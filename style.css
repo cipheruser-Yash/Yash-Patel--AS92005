@@ -1,3 +1,29 @@
+.flex-box-1 {
+  display: flex;
+
+}
+
+.flex-box-1 > div {
+
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.flex-box-2 {
+  display: flex;
+
+}
+
+.flex-box-2 > div {
+
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+
+
 .navbar{
       background-color: white;
 
@@ -48,4 +74,10 @@ h1{
    color: #004d12;
     font-family: Times new roman;
     font-size: 150%;
+}
+
+p{
+  color: #004d12;
+  font-family: Times new roman;
+  font-size: 135%;
 }

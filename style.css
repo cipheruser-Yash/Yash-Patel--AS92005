@@ -11,16 +11,22 @@
 }
 
 .flex-box-2 {
-  display: flex;
+    display:flex;
+    flex-direction:row;
 
 }
 
 .flex-box-2 > div {
 
   margin: 10px;
-  padding: 20px;
-  font-size: 30px;
+  font-size: 25px;
+
 }
+
+.website_dos {
+    object-fit:cover;
+}
+
 .flex-box-3 {
   display: flex;
 
@@ -33,6 +39,22 @@
   font-size: 30px;
 }
 
+.flex-box-4 {
+    display:flex;
+    flex-direction:row;
+
+}
+
+.flex-box-4 > div {
+
+  margin: 10px;
+  font-size: 25px;
+
+}
+
+.website 4 {
+    object-fit:cover;
+}
 
 
 .navbar{
@@ -90,5 +112,5 @@ h1{
 p{
   color: #004d12;
   font-family: Times new roman;
-  font-size: 135%;
+  font-size: 145%;
 }

@@ -72,7 +72,7 @@ text-decoration: none;
 
 }
 .button{
-background-color: Green;
+background-color:#004d12;
   border-radius: 50px;
   width: 100px;
   height: 50px;
@@ -87,7 +87,7 @@ background-color: Green;
 }
 
 .button:hover{
-background-color: darkgreen;
+background-color:#09b072;
   border-radius: 50px;
   width: 100px;
   height: 50px;
@@ -105,11 +105,28 @@ h1{
   font-family: Times new roman;
 
 }
+h2{
+  color: #004d12;
+  font-family: Times new roman;
+
+}
 
 .Website{
    color: #004d12;
     font-family: Times new roman;
     font-size: 150%;
+}
+
+p3{
+    color: #004d12;
+    font-family: Times new roman;
+     font-size: 145%;
+}
+
+p4{
+    color: #004d12;
+    font-family: Times new roman;
+     font-size: 145%;
 }
 
 p{
@@ -121,6 +138,5 @@ p2{
 color: #004d12;
   font-family: Times new roman;
   font-size:  95%;
-
 
 }

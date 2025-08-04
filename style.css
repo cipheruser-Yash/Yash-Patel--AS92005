@@ -108,7 +108,7 @@ h1{
 h2{
   color: #004d12;
   font-family: Times new roman;
-
+     text-decoration: underline;
 }
 
 .Website{
@@ -138,5 +138,11 @@ p2{
 color: #004d12;
   font-family: Times new roman;
   font-size:  95%;
+
+}
+.box{
+        border-width:4px;
+  border-style: solid;
+  border-color: black;
 
 }

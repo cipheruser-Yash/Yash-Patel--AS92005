@@ -117,6 +117,17 @@ h2{
     font-size: 150%;
 }
 
+p{
+  color: #004d12;
+  font-family: Times new roman;
+  font-size: 145%;
+}
+p2{
+color: #004d12;
+  font-family: Times new roman;
+  font-size:  95%;
+
+}
 p3{
     color: #004d12;
     font-family: Times new roman;
@@ -129,17 +140,12 @@ p4{
      font-size: 145%;
 }
 
-p{
-  color: #004d12;
-  font-family: Times new roman;
-  font-size: 145%;
+p5{
+    color: #004d12;
+    font-family: Times new roman;
+     font-size: 150%;
 }
-p2{
-color: #004d12;
-  font-family: Times new roman;
-  font-size:  95%;
 
-}
 .box{
         border-width:4px;
   border-style: solid;

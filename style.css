@@ -59,6 +59,7 @@
     object-fit:cover;
 }
 
+/* This bunch of code from .navbar to .button:hover is reladed to the changes in navbar while the user is either stationary or  hovering over one of the buttons*/
 
 .navbar{
       background-color: white;

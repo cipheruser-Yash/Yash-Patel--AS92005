@@ -1,3 +1,6 @@
+/* There are two types of flex boxes some of them are without the order: 3 (like flex box 1 and 3) and
+others are with order: 3 (like flex box 2 and 4) this is done to change the pattern of the image. */
+
 .flex-box-1 {
   display: flex;
 
@@ -101,6 +104,9 @@ background-color:#09b072;
   font-size: 14px;
 
 }
+
+/* All the h and p in css is to change the color, size (in %) or font of the text   */
+
 h1{
   color: #004d12;
   font-family: Times new roman;
